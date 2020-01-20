@@ -1,4 +1,4 @@
-
+/*
 function createCountryList(selector) {
 
   // Get Countries List from <script> data block.
@@ -48,6 +48,7 @@ $(document).ready(function() {
 
     createCountryList('#country-list-footer');
 });
+*/
 
 ;
 ;(function($, window, document, location, gp_data, undefined) {
