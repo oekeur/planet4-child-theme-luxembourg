@@ -23,7 +23,7 @@ const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
 
 
 module.exports = (env) => ({
-    entry:  './app.js',
+    entry:  './src/app.js',
 
     output: {
         path : path.resolve('dist'),
